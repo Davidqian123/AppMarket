@@ -1,4 +1,4 @@
-const domain = "https://appstore-purchase-platform.ue.r.appspot.com";
+const domain = "YOUR BACKEND URL";
 
 const handleResponseStatus = (response, errMsg) => {
     const { status, ok } = response;
