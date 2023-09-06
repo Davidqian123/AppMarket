@@ -1,0 +1,1 @@
+Deployed service [default] to [https://appstore-purchase-platform.ue.r.appspot.com]
