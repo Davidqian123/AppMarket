@@ -1,4 +1,5 @@
 # AppMarket:  A Cloud and React based App Purchase Platform
+
 ## Highlights:
 • Built a software purchase platform and support Stripe checkout(REST API)
 
@@ -9,3 +10,7 @@
 • Delivered a Golang based web service and ElasticSearch to handle requests and return responses
 
 • Deployed the application to Google Cloud(Google App Engine, Google ComputerEngine)
+
+## Notes:
+
+• Replace variables in AppMarket/appstore-purchase-platform/constants/constants.go
